@@ -1,0 +1,11 @@
+.App {
+  /* text-align: center; */
+}
+body{
+    font-family: 'Roboto';
+    /* color: rgb(4, 4, 4); */
+    /* padding: 20px 60px; */
+}
+a{
+  text-decoration: none;
+}

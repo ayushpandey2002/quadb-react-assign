@@ -1,0 +1,47 @@
+.movie-section{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    height:auto;
+    padding:20px;
+    margin: 10px;
+    justify-content: center;
+/* background-color: rgb(178, 239, 239); */
+}
+.image{
+    padding-right: 60px;
+}
+
+.main{
+background-image: url(../assets/movie-bd-image.avif);
+background-size: 100%;
+background-attachment: fixed;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.summary-button{
+    /* background-color: rgb(206, 125, 20); */
+    text-align: center;
+    color: rgb(223, 203, 24);
+    width: 100%;
+    cursor: pointer;
+    border-radius: 20px;
+    
+}
+.button-con{
+    background-color: black;
+    text-align: center;
+    border-radius: 20px;
+    color: rgb(223, 203, 24);
+    width: 100%;
+    cursor: pointer;
+}
+h5{
+color: rgb(216, 180, 61);
+}
+h2{
+    color: rgb(247, 145, 11);
+}
