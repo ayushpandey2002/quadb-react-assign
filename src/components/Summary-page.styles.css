@@ -1,0 +1,47 @@
+.secondpage{
+    background-image: url(../assets/summary-bg.avif);
+    background-attachment: fixed;
+    background-size: 100%;
+    height: 1100px;
+     display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    text-align: center;
+    align-items: center;
+
+}
+.summary{
+    color:rgb(51, 25, 54);
+    display: flex;
+    flex-direction:column;
+    width:1500px; 
+    padding:10px;
+    justify-content:space-around;
+
+
+}
+.con{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+.book-btn{
+    width: 100px;
+    margin: 10px;
+    height: 50px;
+    text-align: center;
+    cursor: pointer;
+    background-color: rgb(86, 212, 234);
+}
+
+form{
+    border-bottom: 2px;
+    display: flex;
+    flex-direction: column;
+    text-align:justify;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    
+}
